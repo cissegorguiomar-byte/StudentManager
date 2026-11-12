@@ -1,0 +1,9 @@
+# Configuration locale
+/connexion.php
+
+# Fichiers temporaires
+*.log
+*.bak
+
+# Sauvegardes SQL locales
+*.sql
